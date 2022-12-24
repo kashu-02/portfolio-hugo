@@ -1,0 +1,14 @@
+version: '3.8'
+services: 
+    hugo:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes:
+            - ".:/src"
+        ports:
+            - "1313:1313"
+        entrypoint: bash
+        tty: true
+        working_dir: /src
+        user: "1000:1000"
