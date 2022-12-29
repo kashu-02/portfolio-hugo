@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.list ul li .title {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.icon-qiita:before {
+  content: "";
+  background-image: url("/images/social/qiita.png");
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-size: contain;
+  vertical-align: middle;
+}

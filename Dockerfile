@@ -1,4 +1,4 @@
-FROM klakegg/hugo:ubuntu
+FROM klakegg/hugo:ext-ubuntu
 ARG DOCKER_UID=1000
 ARG DOCKER_USER=docker
 ARG DOCKER_PASSWORD=docker
