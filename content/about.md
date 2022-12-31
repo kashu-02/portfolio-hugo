@@ -36,7 +36,7 @@ University: 会津大学(学部1年)
 - Google Cloud Platform (2021年〜)
     - Cloud Run
     - Cloud SQL
-    - Apps Engine
+    - App Engine
 
 ### その他
 - Docker (2021年〜)
@@ -45,7 +45,7 @@ University: 会津大学(学部1年)
 - 自宅サーバー・ネットワーク(NEC IX2215) (2022年〜)
 
 ## 保有資格
-2019年XX月 実用英語技能検定2級 合格  
+2019年 実用英語技能検定2級 合格  
 2022年5月 TOEIC ® Listening & Reading IPテスト 795点  
 2022年10月 応用情報技術者試験 合格
 ## 学歴
@@ -62,3 +62,6 @@ University: 会津大学(学部1年)
 2016年4月〜 行田市ジュニアリーダーズクラブ (現在はスタッフとして支援)  
 2022年4月〜 会津大学公認サークル [Zli](https://zli.works/)　メンバー  
 2022年5月〜 国立青少年教育推進機構 法人ボランティア
+
+## 執筆同人誌
+2022年9月 技術書典13 「Zli Techbook Vol.3」 第3章 「Raspberry Pi で v6 プラス対応ルーターを自作する」

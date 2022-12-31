@@ -127,12 +127,17 @@ dateFormat = "2006年01月02日"
 name = "About"
 weight = 1
 url = "about/"
-
 [[languages.en.menu.main]]
 [[languages.ja.menu.main]]
 name = "Projects"
 weight = 3
 url = "projects/"
+
+[[languages.en.menu.main]]
+[[languages.ja.menu.main]]
+name = "Links"
+weight = 4
+url = "links/"
 
 [[languages.en.menu.main]]
 [[languages.ja.menu.main]]
