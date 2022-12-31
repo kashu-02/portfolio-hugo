@@ -3,7 +3,6 @@ date = 2022-12-31T03:10:03Z
 title = "Projects"
 slug = "" 
 +++
-# Projects
 
 #### 高校の課題連絡・小テスト範囲リマインダープラットフォーム「おk粕」(2020年頃作成)
 技術スタック: Node.js, PostgreSQL, Heroku 等  

@@ -2,7 +2,7 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
 }
-h1 {
+h1 h2 h3 h4 h5{
   font-family: 'Noto Sans JP', sans-serif;
 }
 .list ul li .title {
@@ -19,6 +19,16 @@ h1 {
   display: inline-block;
   width: 1em;
   height: 1em;
-  background-size: contain;
+  background-size: cover;
+  vertical-align: middle;
+}
+
+.icon-sd:before {
+  content: "";
+  background-image: url("/images/social/speaker-deck.svg");
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-size: cover;
   vertical-align: middle;
 }
