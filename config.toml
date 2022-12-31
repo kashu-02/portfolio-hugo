@@ -35,7 +35,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-# customCSS = ["/css/custom_style.css"]
+customCSS = ["/css/custom_style.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 # Custom JS
@@ -103,16 +103,28 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/kasukashu02/"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/kashu-02/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
+name = "Qiita"
+icon = "fa fa-2x icon-qiita"
 weight = 3
-url = "https://twitter.com/kasukashu02/"
+url = "https://qiita.com/kashu02"
+
+[[params.social]]
+name = "Speaker Deck"
+icon = "fa fa-2x icon-sd"
+weight = 3
+url = "https://speakerdeck.com/kashu02"
 
 [languages.en]
 languageName = "English"
