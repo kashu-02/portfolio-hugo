@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 body {
-  font-family: 'Noto Sans JP', "游ゴシック", sans-serif !important;
+  font-family: 'Noto Sans JP', "游ゴシック", sans-serif;
 }
 h1 h2 h3 h4 h5{
-  font-family: 'Noto Sans JP', "游ゴシック", sans-serif !important;
+  font-family: 'Noto Sans JP', "游ゴシック", sans-serif;
 }
 .list ul li .title {
-  font-family: 'Noto Sans JP', "游ゴシック", sans-serif !important;
+  font-family: 'Noto Sans JP', "游ゴシック", sans-serif;
 }
 
 .avatar {
