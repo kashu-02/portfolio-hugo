@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://kashu.dev"
 title = "kashu.dev"
 theme = "hugo-coder"
 languageCode = "ja-jp"
@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Kashu"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "kashu's portfolio"
-keywords = "blog,developer,personal"
+keywords = "developer, kashu, u-aizu, UoA"
 info = ["Undergraduate student at University of Aizu", "Backend / Infrastructure"]
 avatarURL = "https://github.com/kashu-02.png"
 #gravatar = "john.doe@example.com"
