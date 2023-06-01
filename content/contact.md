@@ -9,4 +9,4 @@ slug = ""
 
 - Discord (kashu#7265)
 
-- Mail (このサイトの第2レベルドメイン@ドメイン名)
+- Mail (このサイトの第2レベルドメイン@ドメイン名) [PGP Key](https://gist.github.com/kashu-02/42a466ff72fe35a0753db88e4fe55ce5)
