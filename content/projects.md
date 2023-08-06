@@ -33,7 +33,7 @@ https://github.com/kashu-02/uoa-library-api
 ちゃんと作り直したい。
 
 #### B2B向け農作物販売システム (2022年9月〜現在)
-技術スタック: Node.js(TS), React, DynamoDB, Lambda, Github Actions, Terraform, Docker
+技術スタック: Node.js(TS), React, DynamoDB, Lambda, Github Actions, Terraform, Docker  
 2022年9月頃より、会津大学発スタートアップの開発メンバーとして、LINE Botを使用したB2B向け農作物販売システムを開発しています。
 設計から携わり、主に注文処理や在庫管理などの基幹系、およびWeb管理コンソール、クラウド周りを担当しました。
 
