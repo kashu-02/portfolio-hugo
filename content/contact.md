@@ -7,6 +7,10 @@ slug = ""
 # Contact
 - [Twitter](https://twitter.com/kasukashu02) ([@kasukashu02](https://twitter.com/kasukashu02))
 
-- Discord (kashu#7265)
+- Facebook (https://www.facebook.com/profile.php?id=100092837777183)
+
+- LinkedIn (https://www.linkedin.com/in/shunsuke-kasuya/)
+ 
+- Discord (kashu02)
 
 - Mail (このサイトの第2レベルドメイン@ドメイン名) [PGP Key](https://gist.github.com/kashu-02/42a466ff72fe35a0753db88e4fe55ce5)
