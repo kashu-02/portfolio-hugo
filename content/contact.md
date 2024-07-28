@@ -13,4 +13,4 @@ slug = ""
  
 - Discord (kashu02)
 
-- Mail (このサイトの第2レベルドメイン@ドメイン名) [PGP Key]([https://gist.github.com/kashu-02/42a466ff72fe35a0753db88e4fe55ce5](https://keys.openpgp.org/vks/v1/by-fingerprint/F75C8415554397E566506AC5F7BD7569DD51F2A4))
+- Mail (このサイトの第2レベルドメイン@ドメイン名) [PGP Key](https://keys.openpgp.org/vks/v1/by-fingerprint/F75C8415554397E566506AC5F7BD7569DD51F2A4)
